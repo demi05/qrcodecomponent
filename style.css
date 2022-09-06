@@ -51,13 +51,14 @@ p {
   main {
     width: 70%;
     height: 80%;
+    max-width: 400px;
   }
 }
 
-@media screen and (min-width: 250px) and (max-width: 1439px) and (max-height: 1600px){
+@media screen and (min-width: 250px) and (max-width: 1439px) and (min-height: 1000px) and (max-height: 1600px){
   main {
     width: 70%;
     height: 80%;
-    margin-top: 8em;
+    margin-top: 18em;
   }
 }
