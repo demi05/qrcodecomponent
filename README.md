@@ -125,7 +125,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/demi05/qrcodecomponent)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://demi05.github.io/qrcodecomponent/)
 
 ## My process
 
@@ -154,4 +154,5 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 Many thanks to Favour Markson for his help on this project!
-
+Check out his twitter @MarksonFavour1    
+LINK - https://twitter.com/MarksonFavour1 
