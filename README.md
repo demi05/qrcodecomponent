@@ -135,7 +135,7 @@ I also learnt how to use google fonts.
 
 ### Continued development
 I will definitely focus a lot on responsiveness. I spent more time than needed on this because it wasnt responsive at all. I'd like to take my time to really understand the concept and learn more about it.
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+
 
 
 ## Author
