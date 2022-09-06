@@ -85,3 +85,73 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+
+
+# Frontend Mentor - QR Code Component solution
+
+This is a solution to the [QR Code Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H/hub/qr-code-component-s787Aq6dF5). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+- See hover and focus states for interactive elements
+
+### Screenshot
+
+[Desktop view](qrcodecomponent desktop.jpg)
+[Mobile view](qrcodecomponent desktop.jpg)
+
+
+### Links
+
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+
+
+
+### What I learned
+I learned how to use max-width to keep my page from becoming too large.
+I also learnt how to use google fonts.
+
+### Continued development
+I will definitely focus a lot on responsiveness. I spent more time than needed on this because it wasnt responsive at all. I'd like to take my time to really understand the concept and learn more about it.
+Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+
+
+## Author
+
+- LinkedIn - [Leshi Demilade](https://www.linkedin.com/in/leshi-demilade-74429223a/m)
+- Frontend Mentor - [@demi05](https://www.frontendmentor.io/profile/demi05)
+- Twitter - [@_iam_tee_](https://www.twitter.com/_iam_tee_)
+
+
+## Acknowledgments
+Many thanks to Favour Markson for his help on this project!
+
